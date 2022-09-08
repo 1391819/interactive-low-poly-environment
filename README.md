@@ -111,9 +111,6 @@ http://localhost:8000/
     <br/>
     <br/>
     <img src="/images/3D_models.jpg" alt="3D models"/>
-    <br/>
-    <br/>
-    <img src="/images/GUI.jpg" alt="GUI" width="300"/>
   </div>
 
 ## License

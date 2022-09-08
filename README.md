@@ -65,7 +65,7 @@ $PROJECT_ROOT
 ├── js
 │   # 3D models
 ├── obj
-│   # Textures used
+│   # Textures
 ├── textures
 │   # Key scripts
 └── ...

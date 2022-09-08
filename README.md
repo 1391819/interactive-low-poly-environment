@@ -104,13 +104,13 @@ http://localhost:8000/
 ## Highlights
 
   <div align="center">
-    <img src="/images/view.jpg" alt="environment showcase" width="500"/>
+    <img src="/images/view.jpg" alt="environment showcase"/>
     <br/>
     <br/>
-    <img src="/images/campfire.jpg" alt="campfire" width="500"/>
+    <img src="/images/campfire.jpg" alt="campfire"/>
     <br/>
     <br/>
-    <img src="/images/3D_models.jpg" alt="3D models" width="500"/>
+    <img src="/images/3D_models.jpg" alt="3D models"/>
     <br/>
     <br/>
     <img src="/images/GUI.jpg" alt="GUI" width="300"/>

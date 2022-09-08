@@ -10,12 +10,7 @@
 
 ## About
 
-An interactive computer graphics environment built using Three.js. The design is mainly focused on two things:
-
-- Graphical rendering and modelling
-  - Basic rendering elements
-  - 3D models
-- Interaction, animation and special effects
+An interactive computer graphics environment built using Three.js. The design is mainly focused on graphical rendering and modelling (i.e., basic rendering elements and 3D models) as well as interactions, animations and special effects.
 
 ## Environment elements: in-depth review
 

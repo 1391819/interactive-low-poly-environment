@@ -56,7 +56,6 @@ An interactive computer graphics environment built using Three.js and containing
 
 ## Stack
 
-- HTML & CSS
 - [Threejs](https://threejs.org/) - A cross-browser JavaScript library and API used to create and display animated 3D computer graphics in a web browser using WebGL
 - [GLSL](https://pandaqitutorials.com/Games/9-three-js-complete-glsl-tutorial) - A high-level shading language with a syntax based on the C programming language
 - [glTF](https://github.com/KhronosGroup/glTF) - A royalty-free specification for the efficient transmission and loading of 3D scenes and models by applications

@@ -1,0 +1,57 @@
+body {
+	position: relative;
+	height: 100hv;
+	overflow: hidden;
+	margin: 0;
+}
+
+canvas {
+	width: 100%;
+	height: 100%
+}
+
+
+.scene {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+
+.scene::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+	background-size: cover;
+	background-position: center;
+	z-index: -1;
+}
+
+
+.sunrise::before {
+	background-color: #FFD37A;
+	background-image: url(images/sunrise.svg);
+	opacity: .6;
+}
+
+.midday::before {
+	background-color: #79D1FF;
+	background-image: url(images/midday.svg);
+	opacity: .7;
+}
+
+.sunset::before {
+	background-color: #FFAA00;
+	background-image: url(images/sunset.svg);
+	opacity: .7;
+}
+
+.midnight::before {
+	background-color: #081E44;
+	background-image: url(images/night.svg);
+	//opacity: .9;
+}

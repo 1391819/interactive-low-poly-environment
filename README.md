@@ -104,6 +104,9 @@ http://localhost:8000/
 ## Highlights
 
   <div align="center">
+    <img src="/images/environment_showcase.gif" alt="environment showcase"/>
+    <br/>
+    <br/>
     <img src="/images/environment_showcase.jpg" alt="environment showcase"/>
     <br/>
     <br/>

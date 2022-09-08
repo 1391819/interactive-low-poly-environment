@@ -87,7 +87,7 @@ $PROJECT_ROOT
 - [ ] Use noise perturbations to shape clouds
 - [ ] Increase resolution of water surface texture
 - [ ] Populate night mode skybox with shining stars
-- [ ] TUrn "Environment elements: in-depth review" into a table
+- [ ] Turn "Environment elements: in-depth review" into a table
 
 ## Usage
 

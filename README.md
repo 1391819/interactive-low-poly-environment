@@ -89,7 +89,7 @@ $PROJECT_ROOT
 - [ ] Populate night mode skybox with shining stars
 - [ ] Turn "Environment elements: in-depth review" into a table
 
-## Usage
+## Getting started
 
 1. Clone this folder
 2. Start a local live server (e.g., if you have Python 3.x installed)

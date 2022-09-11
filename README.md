@@ -94,15 +94,15 @@ $PROJECT_ROOT
 1. Clone this folder
 2. Start a local live server (e.g., if you have Python 3.x installed)
 
-  ```sh
-  python -m http.server
-  ```
+```sh
+python -m http.server
+```
 
 3. This will serve files from the current directory at localhost under port 8000, i.e in the address bar type:
 
-  ```
-  http://localhost:8000/
-  ```
+```
+http://localhost:8000/
+```
 
 ## Highlights
 

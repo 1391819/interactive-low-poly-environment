@@ -8,7 +8,7 @@
 
 <div align="justify">
 
-This project showcases an interactive computer graphics environment built using Three.js. The focus is on graphical rendering, modelling, and creating a visually captivating experience. The environment features procedurally generated objects, 3D models, and special animations. Explore the world with its low poly aesthetic, interact with various elements, and enjoy the dynamic animations and special effects. The project utilizes Three.js for rendering, GLSL for shaders, and glTF for 3D models, ensuring a rich and immersive experience.
+This project showcases an interactive computer graphics environment built using Three.js. The focus is on graphical rendering, modelling, and creating a visually captivating experience. The environment features procedurally generated objects, 3D models, and special animations. Explore the world with its low poly aesthetic, interact with various elements, and enjoy dynamic animations and special effects. The project utilizes Three.js for rendering, GLSL for shaders, and glTF for 3D models, ensuring a rich and immersive experience.
 
 ## Stack
 
@@ -38,17 +38,17 @@ $PROJECT_ROOT
 - [x] Simple empty island
 - [x] Procedurally generated objects
 - [x] Lake and all its features
-- [x] Airplane and carousel animations
+- [x] Aeroplane and carousel animations
 - [x] Fireflies and all their features
 - [x] Campfire and all its features
 - [x] Cat and dog 3D models
 - [x] Basic GUI
-- [x] Advanced GUI: dynamic creation of lake
+- [x] Advanced GUI: dynamic creation of the lake
 - [x] Fixed and free camera modes
 - [ ] Use noise perturbations to shape clouds
 - [ ] Increase resolution of water surface texture
 - [ ] Populate night mode skybox with shining stars
-- [ ] Turn "Environment elements: in-depth review" into a table
+- [ ] Turn "Environment elements: an in-depth review" into a table
 
 ## Highlights
 
@@ -74,7 +74,7 @@ The interactive low poly environment offers a rich array of captivating elements
 - **Procedurally Generated Objects**: These objects are meticulously crafted with attention to detail:
     - **Stones**: A main large stone serves as the focal point, complemented by up to four smaller stones arranged artistically.
     - **Grass**: The landscape is adorned with intricate grass structures, featuring a central stem surrounded by five smaller stems.
-    - **Trees**: The environment boasts two types of trees: pine trees and unique blob trees. The trunks of both tree types are procedurally generated, while blob trees showcase dynamically generated leaves groups, adding a touch of randomness and natural variation.
+    - **Trees**: The environment boasts two types of trees: pine trees and unique blob trees. The trunks of both tree types are procedurally generated, while blob trees showcase dynamically generated leaf groups, adding a touch of randomness and natural variation.
     - **Clouds**: Experience the ethereal beauty of procedurally generated clouds. Each cloud "block" consists of four to six clouds, creating a mesmerizing and ever-changing sky.
     - **Campfire**: Witness the magic of a flickering campfire that comes to life at night. The campfire's foundation and fire are procedurally generated, ensuring that each instance is unique. Custom shader materials and flame textures contribute to the realistic fire effect, enhanced by orange and red spotlights.
     - **Fireflies Colonies**: As darkness descends, enchanting firefly colonies illuminate the environment. Custom shader materials bring these fireflies to life, utilizing Points and their UV coordinates. A spotlight strategically placed near each colony casts a soft glow, generating a captivating and randomized animation.

@@ -10,6 +10,24 @@
 
 This project showcases an interactive computer graphics environment built using Three.js. The focus is on graphical rendering, modelling, and creating a visually captivating experience. The environment features procedurally generated objects, 3D models, and special animations. Explore the world with its low poly aesthetic, interact with various elements, and enjoy dynamic animations and special effects. The project utilizes Three.js for rendering, GLSL for shaders, and glTF for 3D models, ensuring a rich and immersive experience.
 
+## Roadmap
+
+- [x] Different scene modes
+- [x] Simple empty island
+- [x] Procedurally generated objects
+- [x] Lake and all its features
+- [x] Aeroplane and carousel animations
+- [x] Fireflies and all their features
+- [x] Campfire and all its features
+- [x] Cat and dog 3D models
+- [x] Basic GUI
+- [x] Advanced GUI: dynamic creation of the lake
+- [x] Fixed and free camera modes
+- [ ] Use noise perturbations to shape clouds
+- [ ] Increase resolution of water surface texture
+- [ ] Populate night mode skybox with shining stars
+- [ ] Turn "Environment elements: an in-depth review" into a table
+
 ## Stack
 
 - Three.js
@@ -31,24 +49,6 @@ $PROJECT_ROOT
 │   # Key scripts
 └── ...
 ```
-
-## Roadmap
-
-- [x] Different scene modes
-- [x] Simple empty island
-- [x] Procedurally generated objects
-- [x] Lake and all its features
-- [x] Aeroplane and carousel animations
-- [x] Fireflies and all their features
-- [x] Campfire and all its features
-- [x] Cat and dog 3D models
-- [x] Basic GUI
-- [x] Advanced GUI: dynamic creation of the lake
-- [x] Fixed and free camera modes
-- [ ] Use noise perturbations to shape clouds
-- [ ] Increase resolution of water surface texture
-- [ ] Populate night mode skybox with shining stars
-- [ ] Turn "Environment elements: an in-depth review" into a table
 
 ## Highlights
 

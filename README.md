@@ -50,6 +50,21 @@ $PROJECT_ROOT
 - [ ] Populate night mode skybox with shining stars
 - [ ] Turn "Environment elements: in-depth review" into a table
 
+## Highlights
+
+  <div align="center">
+    <img src="/images/environment_showcase.gif" alt="environment showcase"/>
+    <br/>
+    <br/>
+    <img src="/images/environment_showcase.jpg" alt="environment showcase"/>
+    <br/>
+    <br/>
+    <img src="/images/campfire.jpg" alt="campfire"/>
+    <br/>
+    <br/>
+    <img src="/images/3D_models.jpg" alt="3D models"/>
+  </div>
+
 ## Environment elements: in-depth review
 
 The interactive low poly environment offers a rich array of captivating elements that enhance the immersive experience:
@@ -80,27 +95,12 @@ python -m http.server
 http://localhost:8000/
 ```
 
-## Highlights
-
-  <div align="center">
-    <img src="/images/environment_showcase.gif" alt="environment showcase"/>
-    <br/>
-    <br/>
-    <img src="/images/environment_showcase.jpg" alt="environment showcase"/>
-    <br/>
-    <br/>
-    <img src="/images/campfire.jpg" alt="campfire"/>
-    <br/>
-    <br/>
-    <img src="/images/3D_models.jpg" alt="3D models"/>
-  </div>
-
-## License
-
-MIT
-
 ## Attributions
 
 - <a href="https://www.flaticon.com/free-icons/art" title="art icons">Art icons created by Freepik - Flaticon</a>
+
+## License
+
+[MIT](https://github.com/1391819/interactive-low-poly-environment/blob/main/License.txt) © [Roberto Nacu](https://github.com/1391819)
 
 </div>

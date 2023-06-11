@@ -8,8 +8,6 @@
 
 <div align="justify">
 
-## About
-
 This project showcases an interactive computer graphics environment built using Three.js. The focus is on graphical rendering, modelling, and creating a visually captivating experience. The environment features procedurally generated objects, 3D models, and special animations. Explore the world with its low poly aesthetic, interact with various elements, and enjoy the dynamic animations and special effects. The project utilizes Three.js for rendering, GLSL for shaders, and glTF for 3D models, ensuring a rich and immersive experience.
 
 ## Stack

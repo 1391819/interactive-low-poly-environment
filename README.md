@@ -12,34 +12,34 @@ This project showcases an interactive computer graphics environment built using 
 
 ## Roadmap
 
-- [x]  Set up the environment with the necessary tools and libraries
+- [x]  Set up the environment with necessary tools and libraries
 - [x]  Design and implement the main island
 - [x]  Implement different scene modes
-    - [x]  Camera perspective toggle system
-    - [x]  Automatic lighting adjustment based on the user’s time to provide a transition between day and night
-- [x]  Create the lake terrain using a displacementMap to achieve depth-based colour adaption and realistic water surfaces
+    - [x]  camera perspective toggle system
+    - [x]  automatic lighting adjustment based on the user’s time
+- [x]  Create lake terrain using a displacementMap (depth-based colour adaption)
 - [x]  Implement different materials (Basic, Lambert, Phong) for desired aesthetic and metallic appearances
 - [x]  Handle static elements
-    - [x]  House
-    - [x]  Fence
-    - [x]  Lamp posts
-    - [x]  Aeroplane
-    - [x]  Carousel
-- [x]  Handle the procedurally generated side of the project
-    - [x]  Stones
-    - [x]  Grass
-    - [x]  Trees
-    - [x]  Clouds
-    - [x]  Campfire
-    - [x]  Firefly colonies
-- [x]  Create custom shader materials and flame textures for realistic fire effects
-- [x]  Create custom sharer materials for the firefly colonies
+    - [x]  house
+    - [x]  fence
+    - [x]  lamp posts
+    - [x]  aeroplane
+    - [x]  carousel
+- [x]  Handle procedurally generated elements
+    - [x]  stones
+    - [x]  grass
+    - [x]  trees
+    - [x]  clouds
+    - [x]  campfire
+    - [x]  firefly colonies
+- [x]  Create custom shader material for the campfire
+- [x]  Create custom shader material for the firefly colonies
 - [x]  Develop aeroplane and carousel animations
-- [x]  Implement resource disposal and window resizing functionalities to ensure optimal performance
+- [x]  Implement resource disposal and window resizing functionalities
 - [x]  Import cat and dog 3D glTF models
 - [x]  Design and optimise GUI
-- [x]  Polish and refine the environment’s visuals, animations, and effects
-- [x]  Deploy the environment
+- [x]  Polish and refine visuals, animations, and effects
+- [ ]  Deploy the environment
 - [ ]  Use noise perturbations to shape clouds
 - [ ]  Increase resolution of water surface texture
 - [ ]  Populate night mode skybox with shining stars

@@ -12,21 +12,37 @@ This project showcases an interactive computer graphics environment built using 
 
 ## Roadmap
 
-- [x] Different scene modes
-- [x] Simple empty island
-- [x] Procedurally generated objects
-- [x] Lake and all its features
-- [x] Aeroplane and carousel animations
-- [x] Fireflies and all their features
-- [x] Campfire and all its features
-- [x] Cat and dog 3D models
-- [x] Basic GUI
-- [x] Advanced GUI: dynamic creation of the lake
-- [x] Fixed and free camera modes
-- [ ] Use noise perturbations to shape clouds
-- [ ] Increase resolution of water surface texture
-- [ ] Populate night mode skybox with shining stars
-- [ ] Turn "Environment elements: an in-depth review" into a table
+- [x]  Set up the environment with the necessary tools and libraries
+- [x]  Design and implement the main island
+- [x]  Implement different scene modes
+    - [x]  Camera perspective toggle system
+    - [x]  Automatic lighting adjustment based on the user’s time to provide a transition between day and night
+- [x]  Create the lake terrain using a displacementMap to achieve depth-based colour adaption and realistic water surfaces
+- [x]  Implement different materials (Basic, Lambert, Phong) for desired aesthetic and metallic appearances
+- [x]  Handle static elements
+    - [x]  House
+    - [x]  Fence
+    - [x]  Lamp posts
+    - [x]  Aeroplane
+    - [x]  Carousel
+- [x]  Handle the procedurally generated side of the project
+    - [x]  Stones
+    - [x]  Grass
+    - [x]  Trees
+    - [x]  Clouds
+    - [x]  Campfire
+    - [x]  Firefly colonies
+- [x]  Create custom shader materials and flame textures for realistic fire effects
+- [x]  Create custom sharer materials for the firefly colonies
+- [x]  Develop aeroplane and carousel animations
+- [x]  Implement resource disposal and window resizing functionalities to ensure optimal performance
+- [x]  Import cat and dog 3D glTF models
+- [x]  Design and optimise GUI
+- [x]  Polish and refine the environment’s visuals, animations, and effects
+- [x]  Deploy the environment
+- [ ]  Use noise perturbations to shape clouds
+- [ ]  Increase resolution of water surface texture
+- [ ]  Populate night mode skybox with shining stars
 
 ## Stack
 
